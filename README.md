@@ -1,6 +1,6 @@
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE)
 ### Hi there 👋, my name is Omar Faruk
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE)
 
  I am a  hard-working individual with proficiency in JavaScript and React as well as the ability to communicate effectively in a team setting. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. 
 
